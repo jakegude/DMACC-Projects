@@ -1,0 +1,18 @@
+P:\C#\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe.config
+P:\C#\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe
+P:\C#\World Series Champions\World Series Champions\bin\Debug\World Series Champions.pdb
+P:\C#\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csprojResolveAssemblyReference.cache
+P:\C#\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.Form1.resources
+P:\C#\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.Properties.Resources.resources
+P:\C#\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.GenerateResource.Cache
+P:\C#\World Series Champions\World Series Champions\obj\Debug\World Series Champions.exe
+P:\C#\World Series Champions\World Series Champions\obj\Debug\World Series Champions.pdb
+P:\C#\Chapter 7\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe.config
+P:\C#\Chapter 7\World Series Champions\World Series Champions\obj\Debug\World Series Champions.exe
+P:\C#\Chapter 7\World Series Champions\World Series Champions\obj\Debug\World Series Champions.pdb
+P:\C#\Chapter 7\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csprojResolveAssemblyReference.cache
+P:\C#\Chapter 7\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.Form1.resources
+P:\C#\Chapter 7\World Series Champions\World Series Champions\obj\Debug\World_Series_Champions.Properties.Resources.resources
+P:\C#\Chapter 7\World Series Champions\World Series Champions\obj\Debug\World Series Champions.csproj.GenerateResource.Cache
+P:\C#\Chapter 7\World Series Champions\World Series Champions\bin\Debug\World Series Champions.exe
+P:\C#\Chapter 7\World Series Champions\World Series Champions\bin\Debug\World Series Champions.pdb

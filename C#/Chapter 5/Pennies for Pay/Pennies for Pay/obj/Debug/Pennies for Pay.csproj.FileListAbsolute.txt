@@ -1,0 +1,9 @@
+P:\C#\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.exe.config
+P:\C#\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.exe
+P:\C#\Pennies for Pay\Pennies for Pay\bin\Debug\Pennies for Pay.pdb
+P:\C#\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.csprojResolveAssemblyReference.cache
+P:\C#\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies_for_Pay.Form1.resources
+P:\C#\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies_for_Pay.Properties.Resources.resources
+P:\C#\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.csproj.GenerateResource.Cache
+P:\C#\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.exe
+P:\C#\Pennies for Pay\Pennies for Pay\obj\Debug\Pennies for Pay.pdb

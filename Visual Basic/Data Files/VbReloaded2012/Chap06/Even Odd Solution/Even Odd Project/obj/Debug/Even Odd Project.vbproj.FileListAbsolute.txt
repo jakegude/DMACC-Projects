@@ -1,0 +1,11 @@
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\bin\Debug\Even Odd Project.exe.config
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\bin\Debug\Even Odd Project.exe
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\bin\Debug\Even Odd Project.pdb
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\bin\Debug\Even Odd Project.xml
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\obj\Debug\Even Odd Project.vbprojResolveAssemblyReference.cache
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\obj\Debug\Even_Odd_Project.MainForm.resources
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\obj\Debug\Even_Odd_Project.Resources.resources
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\obj\Debug\Even Odd Project.vbproj.GenerateResource.Cache
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\obj\Debug\Even Odd Project.exe
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\obj\Debug\Even Odd Project.xml
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Odd Solution\Even Odd Project\obj\Debug\Even Odd Project.pdb

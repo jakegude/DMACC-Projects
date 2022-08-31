@@ -1,0 +1,9 @@
+P:\C#\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+P:\C#\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+P:\C#\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+P:\C#\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csprojResolveAssemblyReference.cache
+P:\C#\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Form1.resources
+P:\C#\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+P:\C#\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csproj.GenerateResource.Cache
+P:\C#\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+P:\C#\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb

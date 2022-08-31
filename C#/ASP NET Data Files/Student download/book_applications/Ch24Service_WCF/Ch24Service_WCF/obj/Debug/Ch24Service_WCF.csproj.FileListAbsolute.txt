@@ -1,0 +1,12 @@
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch24\Ch24Service_WCF\Ch24Service_WCF\bin\Ch24Service_WCF.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch24\Ch24Service_WCF\Ch24Service_WCF\bin\Ch24Service_WCF.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch24\Ch24Service_WCF\Ch24Service_WCF\bin\Ch24Service_WCF.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch24\Ch24Service_WCF\Ch24Service_WCF\obj\Debug\Ch24Service_WCF.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch24\Ch24Service_WCF\Ch24Service_WCF\obj\Debug\Ch24Service_WCF.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch24\Ch24Service_WCF\Ch24Service_WCF\obj\Debug\Ch24Service_WCF.pdb
+C:\aspnet46_cs\book_applications\Ch24Service_WCF\Ch24Service_WCF\bin\Ch24Service_WCF.dll.config
+C:\aspnet46_cs\book_applications\Ch24Service_WCF\Ch24Service_WCF\bin\Ch24Service_WCF.dll
+C:\aspnet46_cs\book_applications\Ch24Service_WCF\Ch24Service_WCF\bin\Ch24Service_WCF.pdb
+C:\aspnet46_cs\book_applications\Ch24Service_WCF\Ch24Service_WCF\obj\Debug\Ch24Service_WCF.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\book_applications\Ch24Service_WCF\Ch24Service_WCF\obj\Debug\Ch24Service_WCF.dll
+C:\aspnet46_cs\book_applications\Ch24Service_WCF\Ch24Service_WCF\obj\Debug\Ch24Service_WCF.pdb

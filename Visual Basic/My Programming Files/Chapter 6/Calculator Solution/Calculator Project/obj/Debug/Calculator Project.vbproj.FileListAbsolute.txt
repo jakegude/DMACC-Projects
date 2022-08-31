@@ -1,0 +1,11 @@
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\bin\Debug\Calculator Project.exe.config
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\bin\Debug\Calculator Project.exe
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\bin\Debug\Calculator Project.pdb
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\bin\Debug\Calculator Project.xml
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\obj\Debug\Calculator Project.vbprojResolveAssemblyReference.cache
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\obj\Debug\Calculator_Project.MainForm.resources
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\obj\Debug\Calculator_Project.Resources.resources
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\obj\Debug\Calculator Project.vbproj.GenerateResource.Cache
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\obj\Debug\Calculator Project.exe
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\obj\Debug\Calculator Project.xml
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Calculator Solution\Calculator Project\obj\Debug\Calculator Project.pdb

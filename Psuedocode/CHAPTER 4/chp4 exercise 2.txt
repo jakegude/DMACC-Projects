@@ -1,0 +1,35 @@
+start
+	declarations
+		num firstNum
+		num secondNum
+		string FIRST = "First is larger"
+		string SECOND = "Second is larger"
+		string EQUAL = "Numbers are equal"
+	housekeeping()
+	detail()
+	finish()
+stop
+
+
+housekeeping()
+	output "Enter 2 Numbers"
+	input firstNum, secondNum
+return
+
+
+detail()
+	if firstNum > secondNum then
+		output FIRST
+	else 
+		if secondNum > firstNum then
+			output SECOND
+		else
+			output EQUAL
+		endif
+	endif
+return
+
+
+finish()
+	output"End Of Program"
+return

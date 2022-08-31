@@ -1,0 +1,18 @@
+P:\C#\Name Search\Name Search\bin\Debug\Name Search.exe.config
+P:\C#\Name Search\Name Search\bin\Debug\Name Search.exe
+P:\C#\Name Search\Name Search\bin\Debug\Name Search.pdb
+P:\C#\Name Search\Name Search\obj\Debug\Name Search.csprojResolveAssemblyReference.cache
+P:\C#\Name Search\Name Search\obj\Debug\Name_Search.Form1.resources
+P:\C#\Name Search\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+P:\C#\Name Search\Name Search\obj\Debug\Name Search.csproj.GenerateResource.Cache
+P:\C#\Name Search\Name Search\obj\Debug\Name Search.exe
+P:\C#\Name Search\Name Search\obj\Debug\Name Search.pdb
+P:\C#\Chapter 7\Name Search\Name Search\bin\Debug\Name Search.exe.config
+P:\C#\Chapter 7\Name Search\Name Search\obj\Debug\Name Search.exe
+P:\C#\Chapter 7\Name Search\Name Search\obj\Debug\Name Search.pdb
+P:\C#\Chapter 7\Name Search\Name Search\bin\Debug\Name Search.exe
+P:\C#\Chapter 7\Name Search\Name Search\bin\Debug\Name Search.pdb
+P:\C#\Chapter 7\Name Search\Name Search\obj\Debug\Name Search.csprojResolveAssemblyReference.cache
+P:\C#\Chapter 7\Name Search\Name Search\obj\Debug\Name_Search.Form1.resources
+P:\C#\Chapter 7\Name Search\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+P:\C#\Chapter 7\Name Search\Name Search\obj\Debug\Name Search.csproj.GenerateResource.Cache

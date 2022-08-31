@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\bin\Debug\TipCalculator.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\obj\Debug\TipCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\obj\Debug\TipCalculator.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\obj\Debug\TipCalculator.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\obj\Debug\TipCalculator.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\obj\Debug\TipCalculator.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb

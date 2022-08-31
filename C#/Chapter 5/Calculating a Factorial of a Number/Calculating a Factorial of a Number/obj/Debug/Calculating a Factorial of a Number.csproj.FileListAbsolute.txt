@@ -1,0 +1,12 @@
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\bin\Debug\Calculating a Factorial of a Number.exe.config
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\bin\Debug\Calculating a Factorial of a Number.exe
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\bin\Debug\Calculating a Factorial of a Number.pdb
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating a Factorial of a Number.csprojResolveAssemblyReference.cache
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating_a_Factorial_of_a_Number.Factorial.resources
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating_a_Factorial_of_a_Number.Properties.Resources.resources
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating a Factorial of a Number.csproj.GenerateResource.Cache
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating a Factorial of a Number.exe
+P:\C#\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating a Factorial of a Number.pdb
+P:\C#\Chapter 5\Calculating a Factorial of a Number\Calculating a Factorial of a Number\bin\Debug\Calculating a Factorial of a Number.exe.config
+P:\C#\Chapter 5\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating a Factorial of a Number.exe
+P:\C#\Chapter 5\Calculating a Factorial of a Number\Calculating a Factorial of a Number\obj\Debug\Calculating a Factorial of a Number.pdb

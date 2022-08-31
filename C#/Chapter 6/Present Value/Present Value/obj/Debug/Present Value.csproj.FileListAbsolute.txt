@@ -1,0 +1,9 @@
+P:\C#\Present Value\Present Value\bin\Debug\Present Value.exe.config
+P:\C#\Present Value\Present Value\bin\Debug\Present Value.exe
+P:\C#\Present Value\Present Value\bin\Debug\Present Value.pdb
+P:\C#\Present Value\Present Value\obj\Debug\Present Value.csprojResolveAssemblyReference.cache
+P:\C#\Present Value\Present Value\obj\Debug\Present_Value.Form1.resources
+P:\C#\Present Value\Present Value\obj\Debug\Present_Value.Properties.Resources.resources
+P:\C#\Present Value\Present Value\obj\Debug\Present Value.csproj.GenerateResource.Cache
+P:\C#\Present Value\Present Value\obj\Debug\Present Value.exe
+P:\C#\Present Value\Present Value\obj\Debug\Present Value.pdb

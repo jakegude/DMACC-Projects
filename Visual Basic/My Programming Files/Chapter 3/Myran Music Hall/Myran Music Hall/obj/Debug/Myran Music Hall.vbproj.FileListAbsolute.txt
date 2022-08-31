@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\bin\Debug\Myran Music Hall.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\bin\Debug\Myran Music Hall.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\bin\Debug\Myran Music Hall.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\bin\Debug\Myran Music Hall.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\obj\Debug\Myran Music Hall.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\obj\Debug\Myran_Music_Hall.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\obj\Debug\Myran_Music_Hall.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\obj\Debug\Myran Music Hall.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\obj\Debug\Myran Music Hall.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\obj\Debug\Myran Music Hall.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Myran Music Hall\Myran Music Hall\obj\Debug\Myran Music Hall.pdb

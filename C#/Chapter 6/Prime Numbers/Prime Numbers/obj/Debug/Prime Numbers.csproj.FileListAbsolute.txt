@@ -1,0 +1,12 @@
+P:\C#\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe.config
+P:\C#\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe
+P:\C#\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.pdb
+P:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.csprojResolveAssemblyReference.cache
+P:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime_Numbers.Form1.resources
+P:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime_Numbers.Properties.Resources.resources
+P:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.GenerateResource.Cache
+P:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.exe
+P:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.pdb
+P:\C#\Chapter 6\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe.config
+P:\C#\Chapter 6\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.exe
+P:\C#\Chapter 6\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.pdb

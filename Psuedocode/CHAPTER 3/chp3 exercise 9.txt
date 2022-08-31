@@ -1,0 +1,15 @@
+start
+	while you are feeling stressed
+		relax
+	endwhile
+	while you don't know the material is true
+		if you have class notes then
+			read through notes
+		else
+			study with a partner
+		endif
+	endwhile
+	if the test is tomorrow then
+		go to bed early
+	endif
+stop

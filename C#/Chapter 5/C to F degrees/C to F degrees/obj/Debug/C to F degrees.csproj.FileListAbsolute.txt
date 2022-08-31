@@ -1,0 +1,12 @@
+P:\C#\C to F degrees\C to F degrees\bin\Debug\C to F degrees.exe.config
+P:\C#\C to F degrees\C to F degrees\bin\Debug\C to F degrees.exe
+P:\C#\C to F degrees\C to F degrees\bin\Debug\C to F degrees.pdb
+P:\C#\C to F degrees\C to F degrees\obj\Debug\C to F degrees.csprojResolveAssemblyReference.cache
+P:\C#\C to F degrees\C to F degrees\obj\Debug\C_to_F_degrees.Form1.resources
+P:\C#\C to F degrees\C to F degrees\obj\Debug\C_to_F_degrees.Properties.Resources.resources
+P:\C#\C to F degrees\C to F degrees\obj\Debug\C to F degrees.csproj.GenerateResource.Cache
+P:\C#\C to F degrees\C to F degrees\obj\Debug\C to F degrees.exe
+P:\C#\C to F degrees\C to F degrees\obj\Debug\C to F degrees.pdb
+P:\C#\Chapter 5\C to F degrees\C to F degrees\bin\Debug\C to F degrees.exe.config
+P:\C#\Chapter 5\C to F degrees\C to F degrees\obj\Debug\C to F degrees.exe
+P:\C#\Chapter 5\C to F degrees\C to F degrees\obj\Debug\C to F degrees.pdb

@@ -1,0 +1,5 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\CostelloProject\CostelloProject\bin\Debug\CostelloProject.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\CostelloProject\CostelloProject\obj\Debug\CostelloProject.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\CostelloProject\CostelloProject\obj\Debug\CostelloProject.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\CostelloProject\CostelloProject\obj\Debug\CostelloProject.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\CostelloProject\CostelloProject\obj\Debug\CostelloProject.vbproj.GenerateResource.Cache

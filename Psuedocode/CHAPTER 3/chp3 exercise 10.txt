@@ -1,0 +1,19 @@
+start
+	buy present
+	if wrapping present 
+		buy wrapping paper
+	endif
+	while wrapping present you will need tape and paper
+		start wrapping present with present sitting on the paper
+		cover present with paper
+		start tapping the paper tight over present
+		put bow on wrapped present
+	endwhile
+	give present to birthday boy
+	celebrate with birthday boy
+	have a good time with birthday boy
+	tell birthday boy to have a good birthday
+	if he says thank you 
+		say your welcome back
+	endif 
+stop

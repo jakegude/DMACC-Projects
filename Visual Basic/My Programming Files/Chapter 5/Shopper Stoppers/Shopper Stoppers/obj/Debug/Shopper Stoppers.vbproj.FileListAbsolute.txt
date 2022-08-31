@@ -1,0 +1,15 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\bin\Debug\Shopper Stoppers.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\bin\Debug\Shopper Stoppers.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\bin\Debug\Shopper Stoppers.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\bin\Debug\Shopper Stoppers.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper_Stoppers.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper_Stoppers.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 5\Shopper Stoppers\Shopper Stoppers\bin\Debug\Shopper Stoppers.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 5\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 5\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 5\Shopper Stoppers\Shopper Stoppers\obj\Debug\Shopper Stoppers.pdb

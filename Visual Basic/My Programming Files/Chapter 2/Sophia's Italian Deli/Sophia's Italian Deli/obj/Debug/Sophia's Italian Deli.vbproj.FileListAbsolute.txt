@@ -1,0 +1,30 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia's Italian Deli.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.AboutBox1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia's Italian Deli.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.SplashScreen1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia's Italian Deli.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.AboutBox1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia's Italian Deli.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophia_s_Italian_Deli.SplashScreen1.resources
+P:\Visual Basic\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\bin\Debug\Sophias Italian Deli.exe.config
+P:\Visual Basic\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.exe
+P:\Visual Basic\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.xml
+P:\Visual Basic\My Programming Files\Chapter 2\Sophia's Italian Deli\Sophia's Italian Deli\obj\Debug\Sophias Italian Deli.pdb

@@ -1,0 +1,20 @@
+start
+	if turkey is frozen
+		thaw
+	endif
+	place turkey in roasting pan
+	turn oven on
+	while turkey is not stuffed
+		stuff turkey
+	endwhile
+	place roasting pan in oven
+	bast turkey in oven
+	check turkey temperature
+	while turkey has not reached appropriate temperature
+		if an hour has passed since last check
+			baste turkey in oven
+			check turkey temperature
+		endif
+	endwhile
+	remove from oven
+stop

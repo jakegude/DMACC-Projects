@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\bin\Debug\AllenProject.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\obj\Debug\AllenProject.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\obj\Debug\AllenProject.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\obj\Debug\AllenProject.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\obj\Debug\AllenProject.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\bin\Debug\AllenProject.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\bin\Debug\AllenProject.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\bin\Debug\AllenProject.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\obj\Debug\AllenProject.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\obj\Debug\AllenProject.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\AllenProject\AllenProject\obj\Debug\AllenProject.pdb

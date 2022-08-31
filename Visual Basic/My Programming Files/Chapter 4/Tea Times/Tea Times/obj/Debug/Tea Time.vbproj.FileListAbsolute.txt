@@ -1,0 +1,22 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\bin\Debug\Tea Times.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\bin\Debug\Tea Times.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\bin\Debug\Tea Times.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\bin\Debug\Tea Times.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\obj\Debug\Tea Time.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\obj\Debug\Tea_Times.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\obj\Debug\Tea_Times.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\obj\Debug\Tea Time.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\obj\Debug\Tea Times.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\obj\Debug\Tea Times.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Tea Times\Tea Times\obj\Debug\Tea Times.pdb
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\bin\Debug\Tea Times.exe.config
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\obj\Debug\Tea Times.exe
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\obj\Debug\Tea Times.xml
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\obj\Debug\Tea Times.pdb
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\bin\Debug\Tea Times.exe
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\bin\Debug\Tea Times.pdb
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\bin\Debug\Tea Times.xml
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\obj\Debug\Tea Time.vbprojResolveAssemblyReference.cache
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\obj\Debug\Tea_Times.Form1.resources
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\obj\Debug\Tea_Times.Resources.resources
+P:\Visual Basic\My Programming Files\Chapter 4\Tea Times\Tea Times\obj\Debug\Tea Time.vbproj.GenerateResource.Cache

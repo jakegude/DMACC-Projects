@@ -1,0 +1,5 @@
+start
+	input value
+	set answer = value / 2
+	output answer
+stop

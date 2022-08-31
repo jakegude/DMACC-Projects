@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.exe.config
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.pdb
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane_Project.frmMain.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane_Project.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.pdb

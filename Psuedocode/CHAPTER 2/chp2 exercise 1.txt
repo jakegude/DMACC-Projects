@@ -1,0 +1,8 @@
+a. legal but too short
+b. legal but unless it was your code, it makes no sense
+c. good name
+d. illegal/ cannot be used because of the space
+e. legal but may not make sense
+f. legal but too long
+g. good name
+h. illegal/ cannot start with a number

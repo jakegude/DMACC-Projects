@@ -1,0 +1,10 @@
+start
+	if we are buying sports equipment then
+		buy football gear first
+		while in season
+			buy gloves and cleats
+		else buy basketball gear
+			buy shoes and basketball
+		endwhile
+	endif
+stop

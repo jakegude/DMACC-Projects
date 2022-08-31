@@ -1,0 +1,12 @@
+P:\C#\Random Guessing Game\Random Guessing Game\bin\Debug\Random Guessing Game.exe.config
+P:\C#\Random Guessing Game\Random Guessing Game\obj\Debug\Random Guessing Game.csprojResolveAssemblyReference.cache
+P:\C#\Random Guessing Game\Random Guessing Game\obj\Debug\Random_Guessing_Game.Form1.resources
+P:\C#\Random Guessing Game\Random Guessing Game\obj\Debug\Random_Guessing_Game.Properties.Resources.resources
+P:\C#\Random Guessing Game\Random Guessing Game\obj\Debug\Random Guessing Game.csproj.GenerateResource.Cache
+P:\C#\Random Guessing Game\Random Guessing Game\bin\Debug\Random Guessing Game.exe
+P:\C#\Random Guessing Game\Random Guessing Game\bin\Debug\Random Guessing Game.pdb
+P:\C#\Random Guessing Game\Random Guessing Game\obj\Debug\Random Guessing Game.exe
+P:\C#\Random Guessing Game\Random Guessing Game\obj\Debug\Random Guessing Game.pdb
+P:\C#\Chapter 5\Random Guessing Game\Random Guessing Game\bin\Debug\Random Guessing Game.exe.config
+P:\C#\Chapter 5\Random Guessing Game\Random Guessing Game\obj\Debug\Random Guessing Game.exe
+P:\C#\Chapter 5\Random Guessing Game\Random Guessing Game\obj\Debug\Random Guessing Game.pdb

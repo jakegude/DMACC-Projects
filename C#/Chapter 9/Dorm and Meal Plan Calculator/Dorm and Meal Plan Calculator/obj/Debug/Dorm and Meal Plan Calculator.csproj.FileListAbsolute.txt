@@ -1,0 +1,20 @@
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe.config
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csprojResolveAssemblyReference.cache
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Form1.resources
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Properties.Resources.resources
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Total_Charges.resources
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.GenerateResource.Cache
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.pdb
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.exe
+P:\C#\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.pdb
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe.config
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.exe
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.pdb
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.pdb
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csprojResolveAssemblyReference.cache
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Form1.resources
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Properties.Resources.resources
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Total_Charges.resources
+E:\C#\Chapter 9\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.GenerateResource.Cache

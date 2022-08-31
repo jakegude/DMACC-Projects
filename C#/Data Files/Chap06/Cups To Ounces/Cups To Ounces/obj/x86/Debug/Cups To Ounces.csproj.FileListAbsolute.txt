@@ -1,0 +1,8 @@
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csprojResolveAssemblyReference.cache
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.Cache
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+P:\C#\Data Files\Chap06\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb

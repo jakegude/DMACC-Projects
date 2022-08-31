@@ -1,0 +1,10 @@
+P:\C#\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe.config
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe.config
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csprojResolveAssemblyReference.cache
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.Form1.resources
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.Properties.Resources.resources
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csproj.GenerateResource.Cache
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.pdb
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.exe
+P:\C#\Chapter 3\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.pdb

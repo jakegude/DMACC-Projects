@@ -1,0 +1,18 @@
+P:\C#\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+P:\C#\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csprojResolveAssemblyReference.cache
+P:\C#\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+P:\C#\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+P:\C#\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.Cache
+P:\C#\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+P:\C#\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+P:\C#\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+P:\C#\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe.config
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.exe
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.pdb
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.exe
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\bin\Debug\Workshop Selector.pdb
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csprojResolveAssemblyReference.cache
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Form1.resources
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\obj\Debug\Workshop_Selector.Properties.Resources.resources
+P:\C#\Chapter 4\Workshop Selector\Workshop Selector\obj\Debug\Workshop Selector.csproj.GenerateResource.Cache

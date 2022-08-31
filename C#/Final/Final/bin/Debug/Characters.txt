@@ -1,0 +1,8 @@
+Name:	Gender:	Non-Human:	Skill Set:
+GUDE	He	Yes		Warrior
+Name:	Gender:	Non-Human:	Skill Set:
+Jake	He	Yes		Warrior
+Name:	Gender:	Non-Human:	Skill Set:
+Gude	He	Yes		Warrior
+Name:	Gender:	Non-Human:	Skill Set:
+Gude	He	No		Warrior

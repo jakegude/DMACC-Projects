@@ -1,0 +1,17 @@
+A
+start
+	input roomWidth
+	input roomLength
+	set roomArea = roomWidth * roomLength
+	output = roomArea
+stop
+
+B
+start
+	input roomWidth
+	input roomLength
+	set roomArea = roomWidth * roomLength
+	set tilesSquarefeet = (6/12) * (6/12)
+	set numberTiles = roomArea * tilesSquarefeet
+	output = roomArea
+stop

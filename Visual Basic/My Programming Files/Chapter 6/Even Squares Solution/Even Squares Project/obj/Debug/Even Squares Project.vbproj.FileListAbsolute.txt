@@ -1,0 +1,11 @@
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.exe.config
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.exe
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.pdb
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\bin\Debug\Even Squares Project.xml
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.vbprojResolveAssemblyReference.cache
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\obj\Debug\Even_Squares_Project.MainForm.resources
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\obj\Debug\Even_Squares_Project.Resources.resources
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.vbproj.GenerateResource.Cache
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.exe
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.xml
+P:\Visual Basic\Data Files\VbReloaded2012\Chap06\Even Squares Solution\Even Squares Project\obj\Debug\Even Squares Project.pdb

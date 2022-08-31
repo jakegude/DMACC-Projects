@@ -1,0 +1,27 @@
+﻿/*** Bootstrap overrides ***/
+.container {
+    border:1px solid #cecece;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.jumbotron {
+    background: url("../Images/banner.jpg");
+    background-size: 100% 100%;
+    margin-top: 1em;
+}
+
+.btn { 
+    margin-bottom: 1em;
+}
+
+label {
+    font-weight: normal;
+}
+
+/*** Elements ***/
+body { padding-top: 50px; }
+
+footer {
+    padding: 2em 0 1em 0;
+}

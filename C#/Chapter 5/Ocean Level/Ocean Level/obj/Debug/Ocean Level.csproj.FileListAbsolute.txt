@@ -1,0 +1,8 @@
+P:\C#\Ocean Level\Ocean Level\bin\Debug\Ocean Level.exe.config
+P:\C#\Ocean Level\Ocean Level\bin\Debug\Ocean Level.exe
+P:\C#\Ocean Level\Ocean Level\bin\Debug\Ocean Level.pdb
+P:\C#\Ocean Level\Ocean Level\obj\Debug\Ocean_Level.Form1.resources
+P:\C#\Ocean Level\Ocean Level\obj\Debug\Ocean_Level.Properties.Resources.resources
+P:\C#\Ocean Level\Ocean Level\obj\Debug\Ocean Level.csproj.GenerateResource.Cache
+P:\C#\Ocean Level\Ocean Level\obj\Debug\Ocean Level.exe
+P:\C#\Ocean Level\Ocean Level\obj\Debug\Ocean Level.pdb

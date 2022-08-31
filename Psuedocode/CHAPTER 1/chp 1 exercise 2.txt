@@ -1,0 +1,4 @@
+first type start
+then whatever you will need in the program make a hanging indent and type "input" for everything
+after inputing you can "set" what your inputs need to do
+then you find your outputs and stop the program

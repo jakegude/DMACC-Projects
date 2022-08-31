@@ -1,0 +1,85 @@
+﻿@model Ch25Cart.Models.OrderViewModel
+
+@{
+    ViewBag.Title = "Order Page";
+    var product = Model.SelectedProduct;
+}
+@section scripts {
+    <script src="~/Scripts/autopostback.js"></script>
+}
+
+<form id="frmDropDown" action="/Order/Index" method="post">
+@*@using (Html.BeginForm("Order", "Index", FormMethod.Post, new { id = "frmCart" }))
+{*@ 
+    <div class="row"><!-- row 1: drop-down -->
+        <div class="col-sm-8">
+            <div class="form-group">
+                <label class="col-sm-5">Please select a product:</label>
+                <div class="col-sm-6">
+                    <select id="ddlProducts" name="ddlProducts"
+                            class="form-control autoPostBack">
+                        @foreach (var item in @Model.ProductsList)
+                        {
+                            <option value="@item.Value" selected="@item.Selected">
+                                @item.Text
+                            </option>
+                            }
+                    </select>
+                    @*@Html.DropDownList("ddlProducts", Model.ProductsList, new { @class = "form-control autoPostBack" })*@
+                </div>
+            </div>
+        </div>
+    </div><!-- end of row 1 -->
+@*}*@
+</form>
+
+@using (Html.BeginForm("List", "Cart", FormMethod.Post,
+                        new { id = "frmCart" }))
+{
+    <div class="row"><!-- row 2: info and image -->
+        <div class="col-sm-8"><!-- info column -->
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <label id="lblName"><b>@product.Name</b></label>
+                </div></div>
+            <div class="form-group">
+                <div class="col-sm-12">
+                    @Html.Label("", @product.ShortDescription,
+     new { id = "lblShortDescription" })
+                </div></div>
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <label id="lblLongDescription">@product.LongDescription</label>
+                </div></div>
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <label id="lblUnitPrice"><b>@product.UnitPrice.ToString("c2")</b></label>
+                </div></div>
+        </div>
+        <div class="col-sm-4"><!-- image column -->
+            <img src="~/Images/Products/@product.ImageFile" alt="" />
+        </div>     
+    </div><!-- end of row 2 -->
+
+    <div class="row"><!-- row 3: quantity and add button -->
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label id="lblQuantity" class="col-sm-1">Quantity</label>
+                <div class="col-sm-3">
+                    @*<input id="txtQuantity" name="txtQuantity" type="text"
+                        value="@product.Quantity" class="form-control" />*@
+                    @*@Html.TextBox("txtQuantity", @product.Quantity, new { @class = "form-control" })*@
+                    @Html.TextBoxFor(m => m.SelectedProduct.Quantity,
+                        new { @id = "txtQuantity ", @class = "form-control" })
+                    @*<input type="hidden" name="hdnId" value="@product.ProductID" />*@
+                    @*@Html.Hidden("hdnId", @product.ProductID)*@
+                    @Html.HiddenFor(m => m.SelectedProduct.ProductID)  
+                </div>
+                <div class="col-sm-8">
+                    <input type="submit" id="btnAdd" value="Add to Cart" class="btn" />
+                </div></div>
+        </div>
+    </div>
+}
+
+

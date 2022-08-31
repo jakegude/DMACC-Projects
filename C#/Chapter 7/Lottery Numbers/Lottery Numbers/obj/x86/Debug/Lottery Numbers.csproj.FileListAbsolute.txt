@@ -1,0 +1,8 @@
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojResolveAssemblyReference.cache
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.Cache
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+P:\C#\Data Files\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb

@@ -1,0 +1,9 @@
+P:\C#\Retail Price Calc\Retail Price Calc\bin\Debug\Retail Price Calc.exe.config
+P:\C#\Retail Price Calc\Retail Price Calc\bin\Debug\Retail Price Calc.exe
+P:\C#\Retail Price Calc\Retail Price Calc\bin\Debug\Retail Price Calc.pdb
+P:\C#\Retail Price Calc\Retail Price Calc\obj\Debug\Retail Price Calc.csprojResolveAssemblyReference.cache
+P:\C#\Retail Price Calc\Retail Price Calc\obj\Debug\Retail_Price_Calc.Form1.resources
+P:\C#\Retail Price Calc\Retail Price Calc\obj\Debug\Retail_Price_Calc.Properties.Resources.resources
+P:\C#\Retail Price Calc\Retail Price Calc\obj\Debug\Retail Price Calc.csproj.GenerateResource.Cache
+P:\C#\Retail Price Calc\Retail Price Calc\obj\Debug\Retail Price Calc.exe
+P:\C#\Retail Price Calc\Retail Price Calc\obj\Debug\Retail Price Calc.pdb

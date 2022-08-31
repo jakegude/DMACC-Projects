@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\bin\Debug\Random Swap Project.exe.config
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\bin\Debug\Random Swap Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\bin\Debug\Random Swap Project.pdb
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\bin\Debug\Random Swap Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\obj\x86\Debug\Random Swap Project.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\obj\x86\Debug\Random_Swap_Project.MainForm.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\obj\x86\Debug\Random_Swap_Project.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\obj\x86\Debug\Random Swap Project.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\obj\x86\Debug\Random Swap Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\obj\x86\Debug\Random Swap Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Random Swap Solution\Random Swap Project\obj\x86\Debug\Random Swap Project.pdb

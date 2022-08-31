@@ -1,0 +1,22 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\bin\Debug\ElviraProject.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\bin\Debug\ElviraProject.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\bin\Debug\ElviraProject.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\bin\Debug\ElviraProject.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\obj\Debug\ElviraProject.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\obj\Debug\ElviraProject.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\obj\Debug\ElviraProject.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\obj\Debug\ElviraProject.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\obj\Debug\ElviraProject.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\obj\Debug\ElviraProject.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\ElviraProject\ElviraProject\obj\Debug\ElviraProject.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\bin\Debug\ElviraProject.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\obj\Debug\ElviraProject.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\obj\Debug\ElviraProject.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\obj\Debug\ElviraProject.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\bin\Debug\ElviraProject.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\bin\Debug\ElviraProject.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\bin\Debug\ElviraProject.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\obj\Debug\ElviraProject.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\obj\Debug\ElviraProject.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\obj\Debug\ElviraProject.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Chapter 1\ElviraProject\ElviraProject\obj\Debug\ElviraProject.vbproj.GenerateResource.Cache

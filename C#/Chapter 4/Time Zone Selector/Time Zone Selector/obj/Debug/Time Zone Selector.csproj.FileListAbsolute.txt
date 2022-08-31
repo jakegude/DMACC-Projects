@@ -1,0 +1,17 @@
+P:\C#\Time Zone Selector\Time Zone Selector\bin\Debug\Time Zone Selector.exe.config
+P:\C#\Time Zone Selector\Time Zone Selector\obj\Debug\Time_Zone_Selector.Form1.resources
+P:\C#\Time Zone Selector\Time Zone Selector\obj\Debug\Time_Zone_Selector.Properties.Resources.resources
+P:\C#\Time Zone Selector\Time Zone Selector\obj\Debug\Time Zone Selector.csproj.GenerateResource.Cache
+P:\C#\Time Zone Selector\Time Zone Selector\bin\Debug\Time Zone Selector.exe
+P:\C#\Time Zone Selector\Time Zone Selector\bin\Debug\Time Zone Selector.pdb
+P:\C#\Time Zone Selector\Time Zone Selector\obj\Debug\Time Zone Selector.exe
+P:\C#\Time Zone Selector\Time Zone Selector\obj\Debug\Time Zone Selector.pdb
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\bin\Debug\Time Zone Selector.exe.config
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\obj\Debug\Time Zone Selector.exe
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\obj\Debug\Time Zone Selector.pdb
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\bin\Debug\Time Zone Selector.exe
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\bin\Debug\Time Zone Selector.pdb
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\obj\Debug\Time Zone Selector.csprojResolveAssemblyReference.cache
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\obj\Debug\Time_Zone_Selector.Form1.resources
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\obj\Debug\Time_Zone_Selector.Properties.Resources.resources
+P:\C#\Chapter 4\Time Zone Selector\Time Zone Selector\obj\Debug\Time Zone Selector.csproj.GenerateResource.Cache

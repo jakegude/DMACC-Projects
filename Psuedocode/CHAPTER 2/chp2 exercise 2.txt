@@ -1,0 +1,17 @@
+a. valid
+b. valid
+c. invalid / different data types
+d. invalid / different data types
+e. invalid / 
+f. invalid / cannot have punctuation
+g. valid
+h. valid
+i. invalid / product on left must represent an address
+j. invalid / missing quotation marks
+k. invalid / different data types
+l. valid
+m. invalid / product on left must represent an address
+n. invalid / missing quotation marks
+o. invalid / product on left must represent an address
+p. valid
+q. valid

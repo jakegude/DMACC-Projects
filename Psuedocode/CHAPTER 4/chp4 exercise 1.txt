@@ -1,0 +1,15 @@
+a. false
+b. true
+c. false
+d. illegal
+e. illegal
+f. false
+g. true
+h. true
+i. true
+j. true
+k. false
+l. true
+m. false
+n. false
+

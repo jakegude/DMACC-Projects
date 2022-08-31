@@ -1,0 +1,30 @@
+﻿/*** Bootstrap overrides ***/
+.container {
+    border: 1px solid #cecece;
+    margin-top: 1em;
+}
+
+.jumbotron {
+    background: url("../Images/banner.jpg");
+    background-size: 100% 100%;
+    margin-top: 1em;
+}
+
+/* Style for the main element*/
+main {
+    padding: 1em;
+}
+
+/* Styles needed for Category Maintenance ListView */
+.table {
+    margin-bottom: 1em;
+}
+
+.table a {
+    color: #5a5a5a;
+}
+
+thead {
+    background-color: #8c8c8c;
+    color: white;
+}

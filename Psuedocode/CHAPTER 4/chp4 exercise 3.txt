@@ -1,0 +1,28 @@
+start
+	declarations
+		num firstNum
+		num secondNum
+		num thirdNum
+		string MSG = "WooHoo!"
+	housekeeping()
+	detail()
+	finish()
+stop
+
+
+housekeeping()
+	output "Enter 3 Numbers"
+	input firstNum, secondNum, thirdNum
+return
+
+
+detail()
+	if ((firstNum + secondNum) = thirdNum) OR
+((secondNum + thirdNum) = firstNum) OR ((firstNum + thirdNum) = secondNum)then
+	output MSG
+	endif
+
+
+finish()
+	output"End Of Program"
+return

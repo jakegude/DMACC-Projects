@@ -1,0 +1,17 @@
+﻿@model Ch25Cart.Models.ContactViewModel
+
+@{
+    ViewBag.Title = "Contact Us";
+}
+<h1>Contact Us</h1>
+<ul class="list-group">
+    <li class="list-group-item">Email: @Model.Email</li>
+    <li class="list-group-item">Phone: @Model.Phone</li>
+    <li class="list-group-item">Address: @Model.Address</li>
+    <li class="list-group-item">
+        @foreach (string url in Model.SocialMediaUrls) {
+            <a href="@url" target="_blank">@url</a><br />
+        }
+    </li>
+</ul>
+

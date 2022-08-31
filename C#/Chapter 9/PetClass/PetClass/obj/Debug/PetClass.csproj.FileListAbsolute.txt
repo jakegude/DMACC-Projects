@@ -1,0 +1,12 @@
+P:\C#\PetClass\PetClass\bin\Debug\PetClass.exe.config
+P:\C#\PetClass\PetClass\bin\Debug\PetClass.exe
+P:\C#\PetClass\PetClass\bin\Debug\PetClass.pdb
+P:\C#\PetClass\PetClass\obj\Debug\PetClass.csprojResolveAssemblyReference.cache
+P:\C#\PetClass\PetClass\obj\Debug\PetClass.Pets.resources
+P:\C#\PetClass\PetClass\obj\Debug\PetClass.Properties.Resources.resources
+P:\C#\PetClass\PetClass\obj\Debug\PetClass.csproj.GenerateResource.Cache
+P:\C#\PetClass\PetClass\obj\Debug\PetClass.exe
+P:\C#\PetClass\PetClass\obj\Debug\PetClass.pdb
+E:\C#\Chapter 9\PetClass\PetClass\bin\Debug\PetClass.exe.config
+E:\C#\Chapter 9\PetClass\PetClass\obj\Debug\PetClass.exe
+E:\C#\Chapter 9\PetClass\PetClass\obj\Debug\PetClass.pdb

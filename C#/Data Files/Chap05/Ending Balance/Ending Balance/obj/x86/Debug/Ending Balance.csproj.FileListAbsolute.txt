@@ -1,0 +1,8 @@
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csprojResolveAssemblyReference.cache
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Form1.resources
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Properties.Resources.resources
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.GenerateResource.Cache
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+P:\C#\Data Files\Chap05\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb

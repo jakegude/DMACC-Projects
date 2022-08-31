@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\bin\Debug\Currency.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\bin\Debug\Currency.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\bin\Debug\Currency.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\obj\Debug\Currency.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\obj\Debug\Currency.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\obj\Debug\Currency.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\obj\Debug\Currency.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\obj\Debug\Currency.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\obj\Debug\Currency.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Currency\Currency\obj\Debug\Currency.pdb

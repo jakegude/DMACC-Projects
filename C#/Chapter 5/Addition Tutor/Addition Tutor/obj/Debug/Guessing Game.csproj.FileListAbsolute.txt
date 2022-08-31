@@ -1,0 +1,9 @@
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.exe.config
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.exe
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.pdb
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Guessing Game.csprojResolveAssemblyReference.cache
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Addition_Tutor.Form1.resources
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Addition_Tutor.Properties.Resources.resources
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Guessing Game.csproj.GenerateResource.Cache
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.exe
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.pdb

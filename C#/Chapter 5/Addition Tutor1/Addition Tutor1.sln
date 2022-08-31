@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition Tutor1", "Addition Tutor1\Addition Tutor1.csproj", "{57E53ABB-8A40-4FE0-BDEB-CD6A07CEA0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E53ABB-8A40-4FE0-BDEB-CD6A07CEA0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E53ABB-8A40-4FE0-BDEB-CD6A07CEA0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E53ABB-8A40-4FE0-BDEB-CD6A07CEA0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E53ABB-8A40-4FE0-BDEB-CD6A07CEA0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

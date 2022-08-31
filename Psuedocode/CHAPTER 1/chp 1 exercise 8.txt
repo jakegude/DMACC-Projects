@@ -1,0 +1,32 @@
+A
+start
+	input wallWidth
+	input wallLength
+	set wallArea = wallWidth * wallLength
+	output wallArea
+stop
+
+B
+start
+	input wallWidth
+	input wallLength
+	input gallonPrice
+	set wallArea = wallWidth * wallLength
+	set numGallon = wallArea / 350
+	set cost = numGallon * gallonPrice
+	output wallArea
+	output numGallon, cost
+stop
+
+C
+start
+	input wallWidth
+	input wallLength
+	input gallonPrice
+	input numDoor
+	set wallArea = (wallWidth * wallLength) - (numDoor * 14)
+	set numGallon = wallArea / 350
+	set cost = numGallon * gallonPrice
+	output wallArea
+	output numGallon, cost
+stop

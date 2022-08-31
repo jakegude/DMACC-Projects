@@ -1,0 +1,8 @@
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csprojResolveAssemblyReference.cache
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+P:\C#\Gaddis\4th Edition\Source Code\0134400399_sc-258390\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb

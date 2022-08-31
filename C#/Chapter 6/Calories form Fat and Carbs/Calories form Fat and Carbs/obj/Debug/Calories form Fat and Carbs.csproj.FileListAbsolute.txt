@@ -1,0 +1,9 @@
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\bin\Debug\Calories form Fat and Carbs.exe.config
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\bin\Debug\Calories form Fat and Carbs.exe
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\bin\Debug\Calories form Fat and Carbs.pdb
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\obj\Debug\Calories form Fat and Carbs.csprojResolveAssemblyReference.cache
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\obj\Debug\Calories_form_Fat_and_Carbs.Form1.resources
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\obj\Debug\Calories_form_Fat_and_Carbs.Properties.Resources.resources
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\obj\Debug\Calories form Fat and Carbs.csproj.GenerateResource.Cache
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\obj\Debug\Calories form Fat and Carbs.exe
+P:\C#\Calories form Fat and Carbs\Calories form Fat and Carbs\obj\Debug\Calories form Fat and Carbs.pdb

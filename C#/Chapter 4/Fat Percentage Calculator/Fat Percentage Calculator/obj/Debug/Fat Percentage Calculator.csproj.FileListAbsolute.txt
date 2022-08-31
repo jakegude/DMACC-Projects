@@ -1,0 +1,9 @@
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe.config
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.csprojResolveAssemblyReference.cache
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Form1.resources
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Properties.Resources.resources
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.csproj.GenerateResource.Cache
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.pdb
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.exe
+P:\C#\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.pdb

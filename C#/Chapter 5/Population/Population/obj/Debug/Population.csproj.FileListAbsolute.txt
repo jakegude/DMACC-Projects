@@ -1,0 +1,9 @@
+P:\C#\Population\Population\bin\Debug\Population.exe.config
+P:\C#\Population\Population\bin\Debug\Population.exe
+P:\C#\Population\Population\bin\Debug\Population.pdb
+P:\C#\Population\Population\obj\Debug\Population.csprojResolveAssemblyReference.cache
+P:\C#\Population\Population\obj\Debug\Population.Form1.resources
+P:\C#\Population\Population\obj\Debug\Population.Properties.Resources.resources
+P:\C#\Population\Population\obj\Debug\Population.csproj.GenerateResource.Cache
+P:\C#\Population\Population\obj\Debug\Population.exe
+P:\C#\Population\Population\obj\Debug\Population.pdb

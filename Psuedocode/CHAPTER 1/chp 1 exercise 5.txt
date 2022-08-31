@@ -1,0 +1,9 @@
+start
+	input edge
+	set sideArea = edge * edge
+	set surfaceArea = sideArea * 6
+	set volume = edge * edge * edge
+	output sideArea
+	output surfaceArea
+	output volume
+stop

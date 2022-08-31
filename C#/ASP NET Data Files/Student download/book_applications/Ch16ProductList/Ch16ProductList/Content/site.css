@@ -1,0 +1,43 @@
+﻿/*** Bootstrap overrides ***/
+.container {
+    margin-bottom: 1em;
+}
+
+.jumbotron {
+    background: url("../Images/banner.jpg");
+    background-size: 100% 100%;
+    margin-top: 1em;
+}
+
+label {
+    font-weight: normal;
+}
+
+/* Styles needed for Product List ListView */
+.font-bold {
+    font-weight: bold;
+}
+
+.itemRow, .altRow {
+    margin: 0;
+    padding: 0.5em;
+    border: 1px solid #8c8c8c;
+}
+
+.altRow {
+    background-color: #f9f9f9;
+}
+
+#product {
+    background-color: #8c8c8c;
+    color: white;
+    font-weight: 600;
+    padding: .5em;
+    margin: 0;
+}
+
+#pager {
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: #8c8c8c;
+}

@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.MainForm.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.pdb
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.pdb

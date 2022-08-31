@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\bin\Debug\Math Project.exe.config
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\bin\Debug\Math Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\bin\Debug\Math Project.pdb
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\bin\Debug\Math Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\obj\Debug\Math Project.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\obj\Debug\Math_Project.MainForm.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\obj\Debug\Math_Project.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\obj\Debug\Math Project.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\obj\Debug\Math Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\obj\Debug\Math Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Math Solution\Math Project\obj\Debug\Math Project.pdb

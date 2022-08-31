@@ -1,0 +1,12 @@
+P:\C#\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.exe.config
+P:\C#\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.csprojResolveAssemblyReference.cache
+P:\C#\Addition Tutor\Addition Tutor\obj\Debug\Addition_Tutor.Form1.resources
+P:\C#\Addition Tutor\Addition Tutor\obj\Debug\Addition_Tutor.Properties.Resources.resources
+P:\C#\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.csproj.GenerateResource.Cache
+P:\C#\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.exe
+P:\C#\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.pdb
+P:\C#\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.exe
+P:\C#\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.pdb
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\bin\Debug\Addition Tutor.exe.config
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.exe
+P:\C#\Chapter 5\Addition Tutor\Addition Tutor\obj\Debug\Addition Tutor.pdb

@@ -1,0 +1,19 @@
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\bin\Debug\AverageScore.exe.config
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\bin\Debug\AverageScore.exe
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\bin\Debug\AverageScore.pdb
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\bin\Debug\AverageScore.xml
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.vbprojResolveAssemblyReference.cache
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.Form1.resources
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.Resources.resources
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.vbproj.GenerateResource.Cache
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.exe
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.xml
+c:\users\jjgudenkauf1\documents\visual studio 2015\Projects\AverageScore\AverageScore\obj\Debug\AverageScore.pdb
+E:\C#\Chapter 1\AverageScore\AverageScore\bin\Debug\AverageScore.exe.config
+E:\C#\Chapter 1\AverageScore\AverageScore\obj\Debug\AverageScore.exe
+E:\C#\Chapter 1\AverageScore\AverageScore\obj\Debug\AverageScore.xml
+E:\C#\Chapter 1\AverageScore\AverageScore\obj\Debug\AverageScore.pdb
+C:\Users\Jake\Desktop\Visual Studio\C#\Chapter 1\AverageScore\AverageScore\bin\Debug\AverageScore.exe.config
+C:\Users\Jake\Desktop\Visual Studio\C#\Chapter 1\AverageScore\AverageScore\obj\Debug\AverageScore.exe
+C:\Users\Jake\Desktop\Visual Studio\C#\Chapter 1\AverageScore\AverageScore\obj\Debug\AverageScore.xml
+C:\Users\Jake\Desktop\Visual Studio\C#\Chapter 1\AverageScore\AverageScore\obj\Debug\AverageScore.pdb

@@ -1,0 +1,9 @@
+P:\C#\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+P:\C#\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+P:\C#\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+P:\C#\Card Flip\Card Flip\obj\Debug\Card Flip.csprojResolveAssemblyReference.cache
+P:\C#\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+P:\C#\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+P:\C#\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.Cache
+P:\C#\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+P:\C#\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

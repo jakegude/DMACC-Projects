@@ -1,0 +1,10 @@
+P:\C#\Joes Auto\Joes Auto\bin\Debug\Joes Auto.exe.config
+P:\C#\Chapter 6\Joes Auto\Joes Auto\bin\Debug\Joes Auto.exe.config
+P:\C#\Chapter 6\Joes Auto\Joes Auto\bin\Debug\Joes Auto.exe
+P:\C#\Chapter 6\Joes Auto\Joes Auto\bin\Debug\Joes Auto.pdb
+P:\C#\Chapter 6\Joes Auto\Joes Auto\obj\Debug\Joes Auto.csprojResolveAssemblyReference.cache
+P:\C#\Chapter 6\Joes Auto\Joes Auto\obj\Debug\Joes_Auto.Form1.resources
+P:\C#\Chapter 6\Joes Auto\Joes Auto\obj\Debug\Joes_Auto.Properties.Resources.resources
+P:\C#\Chapter 6\Joes Auto\Joes Auto\obj\Debug\Joes Auto.csproj.GenerateResource.Cache
+P:\C#\Chapter 6\Joes Auto\Joes Auto\obj\Debug\Joes Auto.exe
+P:\C#\Chapter 6\Joes Auto\Joes Auto\obj\Debug\Joes Auto.pdb

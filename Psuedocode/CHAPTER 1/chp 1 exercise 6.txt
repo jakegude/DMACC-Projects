@@ -1,0 +1,7 @@
+start
+
+	input firstValue
+	input secondValue
+	set answer = firstValue * secondValue
+	output answer
+stop

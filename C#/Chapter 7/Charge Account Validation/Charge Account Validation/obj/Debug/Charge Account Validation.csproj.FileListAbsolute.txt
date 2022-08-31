@@ -1,0 +1,9 @@
+P:\C#\Charge Account Validation\Charge Account Validation\bin\Debug\Charge Account Validation.exe.config
+P:\C#\Charge Account Validation\Charge Account Validation\bin\Debug\Charge Account Validation.exe
+P:\C#\Charge Account Validation\Charge Account Validation\bin\Debug\Charge Account Validation.pdb
+P:\C#\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.csprojResolveAssemblyReference.cache
+P:\C#\Charge Account Validation\Charge Account Validation\obj\Debug\Charge_Account_Validation.Form1.resources
+P:\C#\Charge Account Validation\Charge Account Validation\obj\Debug\Charge_Account_Validation.Properties.Resources.resources
+P:\C#\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.csproj.GenerateResource.Cache
+P:\C#\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.exe
+P:\C#\Charge Account Validation\Charge Account Validation\obj\Debug\Charge Account Validation.pdb

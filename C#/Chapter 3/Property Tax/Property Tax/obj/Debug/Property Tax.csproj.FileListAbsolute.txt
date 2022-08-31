@@ -1,0 +1,9 @@
+P:\C#\Property Tax\Property Tax\bin\Debug\Property Tax.exe.config
+P:\C#\Property Tax\Property Tax\obj\Debug\Property Tax.csprojResolveAssemblyReference.cache
+P:\C#\Property Tax\Property Tax\obj\Debug\Property_Tax.Form1.resources
+P:\C#\Property Tax\Property Tax\obj\Debug\Property_Tax.Properties.Resources.resources
+P:\C#\Property Tax\Property Tax\obj\Debug\Property Tax.csproj.GenerateResource.Cache
+P:\C#\Property Tax\Property Tax\bin\Debug\Property Tax.exe
+P:\C#\Property Tax\Property Tax\bin\Debug\Property Tax.pdb
+P:\C#\Property Tax\Property Tax\obj\Debug\Property Tax.exe
+P:\C#\Property Tax\Property Tax\obj\Debug\Property Tax.pdb

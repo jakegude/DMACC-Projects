@@ -1,0 +1,11 @@
+P:\Visual Basic\Cook College\Cook College\bin\Debug\Cook College.exe.config
+P:\Visual Basic\Cook College\Cook College\bin\Debug\Cook College.exe
+P:\Visual Basic\Cook College\Cook College\bin\Debug\Cook College.pdb
+P:\Visual Basic\Cook College\Cook College\bin\Debug\Cook College.xml
+P:\Visual Basic\Cook College\Cook College\obj\Debug\Cook College.vbprojResolveAssemblyReference.cache
+P:\Visual Basic\Cook College\Cook College\obj\Debug\Cook_College.Form1.resources
+P:\Visual Basic\Cook College\Cook College\obj\Debug\Cook_College.Resources.resources
+P:\Visual Basic\Cook College\Cook College\obj\Debug\Cook College.vbproj.GenerateResource.Cache
+P:\Visual Basic\Cook College\Cook College\obj\Debug\Cook College.exe
+P:\Visual Basic\Cook College\Cook College\obj\Debug\Cook College.xml
+P:\Visual Basic\Cook College\Cook College\obj\Debug\Cook College.pdb

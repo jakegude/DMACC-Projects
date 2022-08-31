@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\bin\Debug\Quotient Project.exe.config
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\bin\Debug\Quotient Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\bin\Debug\Quotient Project.pdb
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\bin\Debug\Quotient Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\obj\Debug\Quotient Project.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\obj\Debug\Quotient_Project.MainForm.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\obj\Debug\Quotient_Project.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\obj\Debug\Quotient Project.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\obj\Debug\Quotient Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\obj\Debug\Quotient Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap04\Quotient Solution\Quotient Project\obj\Debug\Quotient Project.pdb

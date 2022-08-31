@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\bin\Debug\SoundMachine.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\obj\Debug\SoundMachine.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\obj\Debug\SoundMachine.Form1.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\obj\Debug\SoundMachine.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\obj\Debug\SoundMachine.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\bin\Debug\SoundMachine.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\bin\Debug\SoundMachine.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\bin\Debug\SoundMachine.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\obj\Debug\SoundMachine.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\obj\Debug\SoundMachine.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\SoundMachine\SoundMachine\obj\Debug\SoundMachine.pdb

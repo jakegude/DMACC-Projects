@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{04C02F26-FAF2-4503-BB9F-845E7642210A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final Project/Form1.vb">
+    <Files>
+      <File FileName="Final Project/Form1.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final Project" expanded="True">
+            <Node name="Final Project" expanded="True">
+              <Node name="My Project" expanded="True" />
+              <Node name="Form1.vb" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Final_220Project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

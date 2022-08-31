@@ -1,0 +1,5 @@
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Vans Solution\Vans Project\bin\Debug\Vans Project.exe.config
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Vans Solution\Vans Project\obj\Debug\Vans Project.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Vans Solution\Vans Project\obj\Debug\Vans_Project.MainForm.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Vans Solution\Vans Project\obj\Debug\Vans_Project.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Vans Solution\Vans Project\obj\Debug\Vans Project.vbproj.GenerateResource.Cache

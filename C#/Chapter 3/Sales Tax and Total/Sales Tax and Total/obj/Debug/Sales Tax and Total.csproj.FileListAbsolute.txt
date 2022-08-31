@@ -1,0 +1,9 @@
+P:\C#\Sales Tax and Total\Sales Tax and Total\bin\Debug\Sales Tax and Total.exe.config
+P:\C#\Sales Tax and Total\Sales Tax and Total\bin\Debug\Sales Tax and Total.exe
+P:\C#\Sales Tax and Total\Sales Tax and Total\bin\Debug\Sales Tax and Total.pdb
+P:\C#\Sales Tax and Total\Sales Tax and Total\obj\Debug\Sales Tax and Total.csprojResolveAssemblyReference.cache
+P:\C#\Sales Tax and Total\Sales Tax and Total\obj\Debug\Sales_Tax_and_Total.Form1.resources
+P:\C#\Sales Tax and Total\Sales Tax and Total\obj\Debug\Sales_Tax_and_Total.Properties.Resources.resources
+P:\C#\Sales Tax and Total\Sales Tax and Total\obj\Debug\Sales Tax and Total.csproj.GenerateResource.Cache
+P:\C#\Sales Tax and Total\Sales Tax and Total\obj\Debug\Sales Tax and Total.exe
+P:\C#\Sales Tax and Total\Sales Tax and Total\obj\Debug\Sales Tax and Total.pdb

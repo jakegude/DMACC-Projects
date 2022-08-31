@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\bin\Debug\Debug Project.exe.config
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\bin\Debug\Debug Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\bin\Debug\Debug Project.pdb
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\bin\Debug\Debug Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\obj\Debug\Debug Project.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\obj\Debug\Debug_Project.MainForm.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\obj\Debug\Debug_Project.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\obj\Debug\Debug Project.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\obj\Debug\Debug Project.exe
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\obj\Debug\Debug Project.xml
+C:\Users\jjgudenkauf1\Desktop\Data Files\VbReloaded2012\Chap03\Debug Solution\Debug Project\obj\Debug\Debug Project.pdb

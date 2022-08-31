@@ -1,0 +1,21 @@
+﻿@model Ch25Cart.Models.CartViewModel
+
+@{
+    ViewBag.Title = "List";
+}
+
+<div class="row">
+    <div class="col-sm-6">
+        <h1>Your shopping cart</h1>
+        @if (Model.CartItems.Count == 0) {
+            <p>Nothing in your cart yet.</p>
+        }
+        else {
+            <select multiple="multiple" class="form-control">
+                @foreach (var item in Model.CartItems) {
+                    <option>@item.Display()</option>
+                }
+            </select>
+        }
+    </div>
+</div>

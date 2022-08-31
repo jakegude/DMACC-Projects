@@ -1,0 +1,22 @@
+start
+	if you need to do laundry
+		go to the laundry room
+	endif
+	if laundry in the washer
+		put washed laundry in dryer
+	else
+		put dirty laundry in washer
+	endif
+	add detergent to washer
+	start washer
+	if other laundry is dried
+		start folding that laundry
+	endif
+	while laundry is washing
+		relax
+	else
+		put laundry in dryer
+	endwhile
+	dry washed laundry
+	fold laundry
+stop

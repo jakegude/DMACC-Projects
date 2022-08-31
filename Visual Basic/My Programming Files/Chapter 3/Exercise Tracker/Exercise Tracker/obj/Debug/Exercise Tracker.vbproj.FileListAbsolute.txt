@@ -1,0 +1,11 @@
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\bin\Debug\Exercise Tracker.exe.config
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\bin\Debug\Exercise Tracker.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\bin\Debug\Exercise Tracker.pdb
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\bin\Debug\Exercise Tracker.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\obj\Debug\Exercise Tracker.vbprojResolveAssemblyReference.cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\obj\Debug\Exercise_Tracker.ExerciseTracker.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\obj\Debug\Exercise_Tracker.Resources.resources
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\obj\Debug\Exercise Tracker.vbproj.GenerateResource.Cache
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\obj\Debug\Exercise Tracker.exe
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\obj\Debug\Exercise Tracker.xml
+C:\Users\jjgudenkauf1\Desktop\My Programming Files\Exercise Tracker\Exercise Tracker\obj\Debug\Exercise Tracker.pdb

@@ -1,0 +1,9 @@
+P:\C#\Joke And Punch Line\Joke And Punch Line\bin\Debug\Joke And Punch Line.exe.config
+P:\C#\Joke And Punch Line\Joke And Punch Line\bin\Debug\Joke And Punch Line.exe
+P:\C#\Joke And Punch Line\Joke And Punch Line\bin\Debug\Joke And Punch Line.pdb
+P:\C#\Joke And Punch Line\Joke And Punch Line\obj\Debug\Joke And Punch Line.csprojResolveAssemblyReference.cache
+P:\C#\Joke And Punch Line\Joke And Punch Line\obj\Debug\Joke_And_Punch_Line.Form1.resources
+P:\C#\Joke And Punch Line\Joke And Punch Line\obj\Debug\Joke_And_Punch_Line.Properties.Resources.resources
+P:\C#\Joke And Punch Line\Joke And Punch Line\obj\Debug\Joke And Punch Line.csproj.GenerateResource.Cache
+P:\C#\Joke And Punch Line\Joke And Punch Line\obj\Debug\Joke And Punch Line.exe
+P:\C#\Joke And Punch Line\Joke And Punch Line\obj\Debug\Joke And Punch Line.pdb

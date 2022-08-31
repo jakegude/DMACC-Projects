@@ -1,0 +1,9 @@
+P:\C#\Change for a Dollare\Change for a Dollare\bin\Debug\Change for a Dollare.exe.config
+P:\C#\Change for a Dollare\Change for a Dollare\bin\Debug\Change for a Dollare.exe
+P:\C#\Change for a Dollare\Change for a Dollare\bin\Debug\Change for a Dollare.pdb
+P:\C#\Change for a Dollare\Change for a Dollare\obj\Debug\Change for a Dollare.csprojResolveAssemblyReference.cache
+P:\C#\Change for a Dollare\Change for a Dollare\obj\Debug\Change_for_a_Dollare.Form1.resources
+P:\C#\Change for a Dollare\Change for a Dollare\obj\Debug\Change_for_a_Dollare.Properties.Resources.resources
+P:\C#\Change for a Dollare\Change for a Dollare\obj\Debug\Change for a Dollare.csproj.GenerateResource.Cache
+P:\C#\Change for a Dollare\Change for a Dollare\obj\Debug\Change for a Dollare.exe
+P:\C#\Change for a Dollare\Change for a Dollare\obj\Debug\Change for a Dollare.pdb

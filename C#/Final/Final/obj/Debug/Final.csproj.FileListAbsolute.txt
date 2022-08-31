@@ -1,0 +1,23 @@
+P:\C#\Final\Final\bin\Debug\Final.exe.config
+P:\C#\Final\Final\bin\Debug\Final.exe
+P:\C#\Final\Final\bin\Debug\Final.pdb
+P:\C#\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+P:\C#\Final\Final\obj\Debug\Final.Properties.Resources.resources
+P:\C#\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+P:\C#\Final\Final\obj\Debug\Final.exe
+P:\C#\Final\Final\obj\Debug\Final.pdb
+P:\C#\Final\Final\obj\Debug\Final.MainForm.resources
+P:\C#\Final\Final\obj\Debug\Final.Non_Human.resources
+E:\C#\Final\Final\bin\Debug\Final.exe.config
+E:\C#\Final\Final\obj\Debug\Final.exe
+E:\C#\Final\Final\obj\Debug\Final.pdb
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\obj\Debug\Final.exe
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\obj\Debug\Final.pdb
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\bin\Debug\Final.exe
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\bin\Debug\Final.pdb
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\obj\Debug\Final.MainForm.resources
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\obj\Debug\Final.Non_Human.resources
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Jake\Desktop\Visual Studio\C#\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache

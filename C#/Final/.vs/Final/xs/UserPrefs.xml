@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9E8724C6-F8BE-4B9F-B07A-6E798731FA84}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final/Non Human.cs">
+    <Files>
+      <File FileName="Final/MainForm.cs" Line="14" Column="41" />
+      <File FileName="Final/Non Human.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final" expanded="True">
+            <Node name="Final" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="MainForm.cs" expanded="True" />
+              <Node name="Non Human.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Final PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+P:\C#\Time Calculator\Time Calculator\bin\Debug\Time Calculator.exe.config
+P:\C#\Time Calculator\Time Calculator\obj\Debug\Time Calculator.csprojResolveAssemblyReference.cache
+P:\C#\Time Calculator\Time Calculator\obj\Debug\Time_Calculator.Form1.resources
+P:\C#\Time Calculator\Time Calculator\obj\Debug\Time_Calculator.Properties.Resources.resources
+P:\C#\Time Calculator\Time Calculator\obj\Debug\Time Calculator.csproj.GenerateResource.Cache
+P:\C#\Time Calculator\Time Calculator\bin\Debug\Time Calculator.exe
+P:\C#\Time Calculator\Time Calculator\bin\Debug\Time Calculator.pdb
+P:\C#\Time Calculator\Time Calculator\obj\Debug\Time Calculator.exe
+P:\C#\Time Calculator\Time Calculator\obj\Debug\Time Calculator.pdb
